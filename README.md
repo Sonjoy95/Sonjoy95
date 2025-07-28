@@ -1,12 +1,13 @@
-![Header](./github-header-image (4).png)
+![Header](<img width="921" height="300" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/234cd62a-aad0-4f1f-bd14-178d00f642c3" />
+)
 
 ### About Me 👨‍💻
 
-I'm a passionate and driven **Data Analyst fresher** with a strong foundation in data science and analytics. I'm actively seeking opportunities to apply my skills and contribute to data-driven decision-making. My goal is to transform raw data into actionable insights that drive business growth.
+I'm a passionate and driven **Data Analyst fresher** with a strong academic background in Statistics and hands-on experience in Python, Machine Learning, SQL, and Power BI. Eager to apply analytical skills to transform complex datasets into actionable insights and contribute to data-driven decision-making in a dynamic environment.
 
 **Education:**
-* **M.Sc. (Statistics)** - (Appeared)
-* **B.Sc. (Statistics)**
+* **M.Sc. (Statistics) Coursework** | [August 2018] – [October 2021]
+* **B.Sc. (Statistics)** | [August 2015] - [March 2018]
 
 ---
 
