@@ -1,4 +1,5 @@
-<img width="921" height="300" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/234cd62a-aad0-4f1f-bd14-178d00f642c3" />
+<img width="1000" height="339" alt="README_header" src="https://github.com/user-attachments/assets/7abd6141-4e85-435e-bab3-07fe9f3625d4" />
+
 
 ### About Me 👨‍💻
 
@@ -86,14 +87,14 @@ Here are some of the projects I've worked on, showcasing my ability to apply the
 
 ### Work Experience 💼
 
-**Computer Operator** | Victorious Kidss Educares Pvt. Ltd. | Jan 2023 – Nov 2024
-* Managed visitor registration and access control using an ERP system, generating monthly operational reports.
+* **Computer Operator** | Victorious Kidss Educares Pvt. Ltd. | Jan 2023 – Nov 2024
+   - Managed visitor registration and access control using an ERP system, generating monthly operational reports.
 
-**Helper** | Nagparvati Medical Shop | [Insert Start Date] – [Insert End Date]
-* Managed incoming stock, meticulously verifying batch numbers for data accuracy and maintaining digital inventory.
+* **Helper** | Nagparvati Medical Shop | [6 Months]
+   - Managed incoming stock, meticulously verifying batch numbers for data accuracy and maintaining digital inventory.
 
-**Office Boy** | IT King (Electronic Shop) | [Insert Start Date] – [Insert End Date]
-* Provided direct customer support and gained technical aptitude in PC assembling.
+* **Office Boy** | IT King (Electronic Shop) | [3 Months]
+   - Provided direct customer support and gained technical aptitude in PC assembling.
 
 ---
 
