@@ -1,4 +1,4 @@
-![Header](<img width="921" height="300" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/234cd62a-aad0-4f1f-bd14-178d00f642c3" />
+(<img width="921" height="300" alt="github-header-image (4)" src="https://github.com/user-attachments/assets/234cd62a-aad0-4f1f-bd14-178d00f642c3" />
 )
 
 ### About Me 👨‍💻
