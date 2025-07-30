@@ -1,4 +1,5 @@
-<img width="1000" height="339" alt="README_header" src="https://github.com/user-attachments/assets/7abd6141-4e85-435e-bab3-07fe9f3625d4" />
+<img width="1000" height="336" alt="README_header copy" src="https://github.com/user-attachments/assets/68a19670-659d-4f1a-84e8-05f2b4ad752b" />
+
 
 
 ### About Me 👨‍💻
@@ -6,8 +7,8 @@
 I'm a passionate and driven **Data Analyst fresher** with a strong academic background in Statistics and hands-on experience in Python, Machine Learning, SQL, and Power BI. Eager to apply analytical skills to transform complex datasets into actionable insights and contribute to data-driven decision-making in a dynamic environment.
 
 **Education:**
-* **M.Sc. (Statistics) Coursework** | [August 2018] – [October 2021]
-* **B.Sc. (Statistics)** | [August 2015] - [March 2018]
+* **M.Sc. (Statistics) Coursework** | August, 2018 – October, 2021
+* **B.Sc. (Statistics)** | July, 2015 - March, 2018
 
 ---
 
@@ -44,7 +45,9 @@ Here's a snapshot of my technical toolkit:
 
 ### Certifications & Achievements 🏆
 
-* **Certified in Python and Machine Learning**
+* **Python Programming Certification** (Issued by Perfect eLearning) - _[November, 2021]_
+* **Data Structures in Python Certification** (Issued by Perfect eLearning) - _[December, 2021]_
+* **Machine Learning in Python Certification** (Issued by Perfect eLearning) - _[May, 2022]_
 * Achieved **Golden Badge in HackerRank** for completing SQL challenges
 
 ---
