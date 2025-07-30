@@ -7,8 +7,8 @@
 I'm a passionate and driven **Data Analyst fresher** with a strong academic background in Statistics and hands-on experience in Python, Machine Learning, SQL, and Power BI. Eager to apply analytical skills to transform complex datasets into actionable insights and contribute to data-driven decision-making in a dynamic environment.
 
 **Education:**
-* **M.Sc. (Statistics) Coursework** | August, 2018 – October, 2021
-* **B.Sc. (Statistics)** | July, 2015 - March, 2018
+* **M.Sc. (Statistics) Coursework** | _[August, 2018 – October, 2021]_
+* **B.Sc. (Statistics)** | _[July, 2015 - March, 2018]_
 
 ---
 
@@ -90,13 +90,13 @@ Here are some of the projects I've worked on, showcasing my ability to apply the
 
 ### Work Experience 💼
 
-* **Computer Operator** | Victorious Kidss Educares Pvt. Ltd. | Jan 2023 – Nov 2024
+* **Computer Operator** | Victorious Kidss Educares Pvt. Ltd. | _[January 2023 – November 2024]_
    - Managed visitor registration and access control using an ERP system, generating monthly operational reports.
 
-* **Helper** | Nagparvati Medical Shop | [6 Months]
+* **Helper** | Nagparvati Medical Shop | _[September, 2018 - March, 2019]_
    - Managed incoming stock, meticulously verifying batch numbers for data accuracy and maintaining digital inventory.
 
-* **Office Boy** | IT King (Electronic Shop) | [3 Months]
+* **Office Boy** | IT King (Electronic Shop) | _[April, 2015 - July, 2015]_
    - Provided direct customer support and gained technical aptitude in PC assembling.
 
 ---
